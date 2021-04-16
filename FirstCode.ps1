@@ -1,3 +1,5 @@
 Write-Host ("Evrika!")
 Write-Host ("Asta e")
 Write-Host ("Jules Verne")
+Write-Host ("Yes to Titu!")
+Write-Host ("Triunghiul Bermudelor")
